@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to make mods
 - 💞️ I’m not currently looking to collaborate
 - 📫 How to reach me: No email right now :(
+- 🎮 My GD profile: https://www.gdbrowser.com/u/RubDeaf
 
 <!---
 RubDeaf/RubDeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
