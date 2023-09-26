@@ -1,7 +1,7 @@
 
 ## Welcome!
 
-![](/resources/RubDeafBanner.png)
+![](/Resources/RubDeafBanner.png)
 
 - 👋 Hi, I’m @RubDeaf
 - 👀 I’m interested in Geometry Dash
