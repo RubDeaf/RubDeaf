@@ -12,7 +12,7 @@
 - 🎮 My GD profile: https://www.gdbrowser.com/u/RubDeaf
 - 🎥 YouTube: https://www.youtube.com/@RubDeaf
 - 🌍 Website (Spanish): https://www.sites.google.com/view/RubDeaf/
-- 🌍 Website (English): COMING SOON!
+- 🌍 Website (English): https://www.sites.google.com/view/RubDeaf/english
 
 
   
