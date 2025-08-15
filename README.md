@@ -4,12 +4,10 @@
 ![](/Resources/RubDeafBanner.png)
 
 - 👋 Hi, I’m @RubDeaf
-- 👀 I’m interested in batch
-- 📫 How to reach me: No email right now :(
+- 👀 I code in Lua/Luau
+- 📫 How to reach me: No email at the moment :(
 
 - 🎥 YouTube: https://www.youtube.com/@RubDeaf
-- 🌍 Website (Spanish): https://www.sites.google.com/view/RubDeaf/
-- 🌍 Website (English): https://www.sites.google.com/view/RubDeaf/english
 
 
   
